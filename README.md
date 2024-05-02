@@ -1,6 +1,12 @@
-# Global
+# Transport Policies worldwide
 
-United Nations
+Plans, data and other documents on transport worldwide
+
+Community list of publications, data and other useful information on transport worldwide 🚲🚌🚋🌳🚊
+
+Have something to add or change? Contact: Armin.Wagner@giz.de
+
+# United Nations
 
 - UN	
   - Sustainable Development Goals	https://sdgs.un.org/goals 
@@ -12,7 +18,7 @@ United Nations
   - Paris Agreement	https://unfccc.int/sites/default/files/english_paris_agreement.pdf 
 
 
-European Union
+# European Union
 
 - The European Green Deal - Delivering the European Green Deal 	https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_en 
 https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/delivering-european-green-deal_en 
