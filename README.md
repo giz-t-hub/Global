@@ -28,12 +28,18 @@ https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-g
 - Trans-European Transport Network (TEN-T)	https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment/trans-european-transport-network-ten-t_en 
 
 
+For more information about our work, please refer to: 
+- Changing Transport: https://changing-transport.org/
+-	Transformative Urban Mobility Initiative (TUMI): https://transformative-mobility.org/
+-	MobiliseYourCity: https://www.mobiliseyourcity.net/
+		
+
 
 		
-		
-Others
+Disclaimer: Findings, interpretations and conclusions expressed in this repository are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this repository doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
 
-UN	Convention on the Rights of the Child	https://www.unicef.org/child-rights-convention/convention-text 
 
-		
+Compiled by / Contact:
+- Armin Wagner: armin.wagner@giz.de
+- (as of April 2024)
