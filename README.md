@@ -27,7 +27,7 @@ https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-g
 
 - Trans-European Transport Network (TEN-T)
 	- https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment/trans-european-transport-network-ten-t_en
- 	- REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on Union guidelines for the development of the trans-European transport networkhttps://data.consilium.europa.eu/doc/document/PE-56-2024-INIT/en/pdf
+ 	- REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on Union guidelines for the development of the trans-European transport network https://data.consilium.europa.eu/doc/document/PE-56-2024-INIT/en/pdf
 
 
 
